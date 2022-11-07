@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/RP2040/RP2040.pretty")(options "")(descr ""))
+  (lib (name "DX07B024JJ3R1600")(type "KiCad")(uri "${KIPRJMOD}/libraries/DX07B024JJ3R1600/DX07B024JJ3R1600.pretty")(options "")(descr ""))
+  (lib (name "USB4510-03-1-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4510-03-1-A/USB4510-03-1-A.pretty")(options "")(descr ""))
+  (lib (name "NCP1117LPST33T3G")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP1117LPST33T3G/NCP1117LPST33T3G.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/../footprints")(options "")(descr ""))
+)
