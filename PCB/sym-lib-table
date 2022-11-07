@@ -3,4 +3,5 @@
   (lib (name "DX07B024JJ3R1600")(type "Legacy")(uri "${KIPRJMOD}/libraries/DX07B024JJ3R1600/DX07B024JJ3R1600.lib")(options "")(descr ""))
   (lib (name "USB4510-03-1-A")(type "Legacy")(uri "${KIPRJMOD}/libraries/USB4510-03-1-A/USB4510-03-1-A.lib")(options "")(descr ""))
   (lib (name "NCP1117LPST33T3G")(type "Legacy")(uri "${KIPRJMOD}/libraries/NCP1117LPST33T3G/NCP1117LPST33T3G.lib")(options "")(descr ""))
+  (lib (name "KBD")(type "Legacy")(uri "${KIPRJMOD/../footprints/kicad-symbols/kbd.lib")(options "")(descr ""))
 )
