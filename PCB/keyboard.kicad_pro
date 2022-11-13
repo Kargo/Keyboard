@@ -373,7 +373,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 200,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -414,6 +414,10 @@
     [
       "b30f8099-44b7-4a25-baac-7313b691a73e",
       ""
+    ],
+    [
+      "43bcc886-dca4-433c-977a-b5e7b809cde5",
+      "USB Input"
     ]
   ],
   "text_variables": {}
