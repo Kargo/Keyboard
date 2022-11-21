@@ -649,10 +649,10 @@
       (reference "C114") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/ef7d6f18-62ec-47b5-a94e-5928da0280e9"
-      (reference "C115") (unit 1) (value "10u") (footprint "")
+      (reference "C115") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/b705be7a-d508-4e7e-96c9-38f3857b8034"
-      (reference "C116") (unit 1) (value "22uF") (footprint "")
+      (reference "C116") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/ce29a3c6-e48d-475e-a9e0-30eda2be98d5"
       (reference "C201") (unit 1) (value "20p") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -697,10 +697,10 @@
       (reference "C214") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/ef7d6f18-62ec-47b5-a94e-5928da0280e9"
-      (reference "C215") (unit 1) (value "10u") (footprint "")
+      (reference "C215") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/b705be7a-d508-4e7e-96c9-38f3857b8034"
-      (reference "C216") (unit 1) (value "22uF") (footprint "")
+      (reference "C216") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/5580a904-7bd9-4759-a9e8-818fa098d658/4856fe9e-ab90-4a6e-805b-cb77bc895eac"
       (reference "D101") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_SOD-123")
@@ -853,10 +853,10 @@
       (reference "J205") (unit 1) (value "AudioJack4") (footprint "Footprints:TRRS-PJ-320A")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/88526928-ec48-4668-a320-9c2d96fe08c7"
-      (reference "L101") (unit 1) (value "2.2μH") (footprint "")
+      (reference "L101") (unit 1) (value "2.2μH") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-30xx")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/88526928-ec48-4668-a320-9c2d96fe08c7"
-      (reference "L201") (unit 1) (value "2.2μH") (footprint "")
+      (reference "L201") (unit 1) (value "2.2μH") (footprint "Inductor_SMD:L_Taiyo-Yuden_NR-30xx")
     )
     (path "/5580a904-7bd9-4759-a9e8-818fa098d658/64944a71-13d9-4ded-9acb-0f5794080130"
       (reference "MX101") (unit 1) (value "SW_Push") (footprint "Footprints:CherryMX_Choc_Hotswap")
@@ -994,7 +994,7 @@
       (reference "R109") (unit 1) (value "4.7K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/e0569d23-2351-4f7f-8531-69f937438fd0"
-      (reference "R110") (unit 1) (value "100k") (footprint "")
+      (reference "R110") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/bd1fde98-976f-4f4a-86fa-f36eec382f7b"
       (reference "R111") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1027,7 +1027,7 @@
       (reference "R209") (unit 1) (value "4.7K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/e0569d23-2351-4f7f-8531-69f937438fd0"
-      (reference "R210") (unit 1) (value "100k") (footprint "")
+      (reference "R210") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/bd1fde98-976f-4f4a-86fa-f36eec382f7b"
       (reference "R211") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1036,7 +1036,7 @@
       (reference "U101") (unit 1) (value "W25Q128JVSIQ") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/211227b5-5a8d-4ad4-ad23-40f7f33793a2"
-      (reference "U102") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
+      (reference "U102") (unit 1) (value "RP2040") (footprint "RP2040:SC090813")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/47aa7832-d3e1-4429-a370-9c444c138595"
       (reference "U103") (unit 1) (value "TPS62172DSG") (footprint "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias")
@@ -1051,7 +1051,7 @@
       (reference "U201") (unit 1) (value "W25Q128JVSIQ") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/211227b5-5a8d-4ad4-ad23-40f7f33793a2"
-      (reference "U202") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
+      (reference "U202") (unit 1) (value "RP2040") (footprint "RP2040:SC090813")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/47aa7832-d3e1-4429-a370-9c444c138595"
       (reference "U203") (unit 1) (value "TPS62172DSG") (footprint "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias")
