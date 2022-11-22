@@ -832,7 +832,7 @@
       (reference "J103") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/b553fcd9-edd3-40d0-a38e-2240db7a8156"
-      (reference "J104") (unit 1) (value "CONN_DISPLAY") (footprint "")
+      (reference "J104") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:OLED_128_64")
     )
     (path "/09e2c39d-e578-4df4-966d-37f8c8def6a5/be37287c-4ac9-43d8-84cf-4362284a4535"
       (reference "J105") (unit 1) (value "AudioJack4") (footprint "Footprints:TRRS-PJ-320A")
@@ -847,7 +847,7 @@
       (reference "J203") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/b553fcd9-edd3-40d0-a38e-2240db7a8156"
-      (reference "J204") (unit 1) (value "CONN_DISPLAY") (footprint "")
+      (reference "J204") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:OLED_128_64")
     )
     (path "/09e2c39d-e578-4df4-966d-37f8c8def6a5/b30321eb-09b2-4ccf-bcc4-2837e20856b5"
       (reference "J205") (unit 1) (value "AudioJack4") (footprint "Footprints:TRRS-PJ-320A")

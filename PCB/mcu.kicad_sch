@@ -3936,7 +3936,7 @@
     (property "Value" "CONN_DISPLAY" (id 1) (at 259.08 157.4799 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 257.81 157.48 0)
+    (property "Footprint" "Footprints:OLED_128_64" (id 2) (at 257.81 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 257.81 157.48 0)
