@@ -822,6 +822,36 @@
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/93cff6af-f67b-4eaa-a8dc-b295bac446e2"
       (reference "D220") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/5580a904-7bd9-4759-a9e8-818fa098d658/7ae0f912-5f0a-463d-beca-be63f714bbea"
+      (reference "H101") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/5580a904-7bd9-4759-a9e8-818fa098d658/1fd2b370-a8a7-4e95-a143-7fa324785a80"
+      (reference "H102") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/5580a904-7bd9-4759-a9e8-818fa098d658/0e2b39e4-8a32-497f-9a3e-5987e563b9b0"
+      (reference "H103") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/5580a904-7bd9-4759-a9e8-818fa098d658/780a0522-a64b-480c-9ef1-598328af2a94"
+      (reference "H104") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/5580a904-7bd9-4759-a9e8-818fa098d658/4e265360-b9c8-4ea2-a974-7ae0103f1008"
+      (reference "H105") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/51836dbc-ef70-4f15-8db7-caf3e1f7f4bd/7ae0f912-5f0a-463d-beca-be63f714bbea"
+      (reference "H201") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/51836dbc-ef70-4f15-8db7-caf3e1f7f4bd/1fd2b370-a8a7-4e95-a143-7fa324785a80"
+      (reference "H202") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/51836dbc-ef70-4f15-8db7-caf3e1f7f4bd/0e2b39e4-8a32-497f-9a3e-5987e563b9b0"
+      (reference "H203") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/51836dbc-ef70-4f15-8db7-caf3e1f7f4bd/780a0522-a64b-480c-9ef1-598328af2a94"
+      (reference "H204") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
+    (path "/51836dbc-ef70-4f15-8db7-caf3e1f7f4bd/4e265360-b9c8-4ea2-a974-7ae0103f1008"
+      (reference "H205") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
+    )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/0c79d9fe-9fdd-4608-a1c5-f0d051829b4c"
       (reference "J101") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
