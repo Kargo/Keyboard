@@ -453,6 +453,9 @@
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/0a31c19f-2269-4057-93c9-8add49da9fcd"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/2ea92998-80e6-487a-8144-a6c922f72bdb"
+      (reference "#PWR0126") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/d6b1db5f-8766-41be-a2ee-7e36e3742300"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "")
     )
@@ -488,6 +491,9 @@
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/dc8b75e7-b7a9-4277-a6a3-15874bb9c523"
       (reference "#PWR0138") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/2be5a3e4-6545-4242-984b-805a21c5914c/2ea92998-80e6-487a-8144-a6c922f72bdb"
+      (reference "#PWR0139") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/37da07c0-b021-4b67-898f-f5f5ebffab8e"
       (reference "#PWR0201") (unit 1) (value "+3V3") (footprint "")
@@ -599,12 +605,6 @@
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/8b66b249-fe46-478e-96c5-ae5fa2d6ec99"
       (reference "#PWR0239") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/2be5a3e4-6545-4242-984b-805a21c5914c/2ea92998-80e6-487a-8144-a6c922f72bdb"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/2ea92998-80e6-487a-8144-a6c922f72bdb"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/ce29a3c6-e48d-475e-a9e0-30eda2be98d5"
       (reference "C101") (unit 1) (value "20p") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -856,7 +856,7 @@
       (reference "J101") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/575baea8-b627-4c9b-aea3-2280bf6d35e5"
-      (reference "J102") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J102") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/b41c1333-29c4-4bbf-82b4-7b1339ca4d6b"
       (reference "J103") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
@@ -871,7 +871,7 @@
       (reference "J201") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/575baea8-b627-4c9b-aea3-2280bf6d35e5"
-      (reference "J202") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J202") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/b41c1333-29c4-4bbf-82b4-7b1339ca4d6b"
       (reference "J203") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
