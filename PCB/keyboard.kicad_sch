@@ -853,7 +853,7 @@
       (reference "H205") (unit 1) (value "MountingHole_Pad") (footprint "Footprints:M2_HOLE_v3")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/0c79d9fe-9fdd-4608-a1c5-f0d051829b4c"
-      (reference "J101") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J101") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/575baea8-b627-4c9b-aea3-2280bf6d35e5"
       (reference "J102") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
@@ -862,13 +862,13 @@
       (reference "J103") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/b553fcd9-edd3-40d0-a38e-2240db7a8156"
-      (reference "J104") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:OLED_128_64")
+      (reference "J104") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:SSD1306_0.96_Oled")
     )
     (path "/09e2c39d-e578-4df4-966d-37f8c8def6a5/be37287c-4ac9-43d8-84cf-4362284a4535"
       (reference "J105") (unit 1) (value "AudioJack4") (footprint "Footprints:TRRS-PJ-320A")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/0c79d9fe-9fdd-4608-a1c5-f0d051829b4c"
-      (reference "J201") (unit 1) (value "switch") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J201") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/575baea8-b627-4c9b-aea3-2280bf6d35e5"
       (reference "J202") (unit 1) (value "switch") (footprint "Footprints:SKHLACA010")
@@ -877,7 +877,7 @@
       (reference "J203") (unit 1) (value "USB4510-03-1-A") (footprint "USB4510-03-1-A:USB4510-03-1-A")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/b553fcd9-edd3-40d0-a38e-2240db7a8156"
-      (reference "J204") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:OLED_128_64")
+      (reference "J204") (unit 1) (value "CONN_DISPLAY") (footprint "Footprints:SSD1306_0.96_Oled")
     )
     (path "/09e2c39d-e578-4df4-966d-37f8c8def6a5/b30321eb-09b2-4ccf-bcc4-2837e20856b5"
       (reference "J205") (unit 1) (value "AudioJack4") (footprint "Footprints:TRRS-PJ-320A")
