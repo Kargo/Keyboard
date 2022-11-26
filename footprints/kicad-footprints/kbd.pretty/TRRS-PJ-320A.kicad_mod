@@ -35,8 +35,8 @@
   (fp_line (start 3.05 0) (end -3.05 0) (layer "F.SilkS") (width 0.15) (tstamp 981cca06-b62c-4504-b459-5c6cb0e29434))
   (pad "" np_thru_hole circle (at 0 8.6) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 0f964d7d-fb6a-43b4-b499-4ce4a5968fb7))
   (pad "" np_thru_hole circle (at 0 1.6) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 520ae88e-0d51-4d00-bc45-c0e6fa358c65))
-  (pad "R1" thru_hole oval (at 2.3 3.2 180) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp a2305109-5ae0-420f-a55d-db5b169d7953))
-  (pad "R2" thru_hole oval (at 2.3 6.2) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp eeef8a91-c93c-4eff-9de6-3f7b6b682e20))
+  (pad "R1" thru_hole oval (at 2.3 6.2) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp eeef8a91-c93c-4eff-9de6-3f7b6b682e20))
+  (pad "R2" thru_hole oval (at 2.3 3.2 180) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp a2305109-5ae0-420f-a55d-db5b169d7953))
   (pad "S" thru_hole oval (at -2.3 11.3) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp 7cdcbff3-c831-4bd4-9e69-00f8600c4680))
   (pad "T" thru_hole oval (at 2.3 10.2) (size 1.6 2) (drill oval 0.9 1.3) (layers *.Cu *.Mask) (tstamp 1489479c-b750-44ca-b44a-7287977dc82e))
   (model "/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/PJ-320A.step"

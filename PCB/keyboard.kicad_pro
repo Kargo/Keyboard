@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 2.3,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -128,6 +128,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.35
         }
       ],
       "zones_allow_external_fillets": false,
@@ -457,7 +461,6 @@
         "name": "Power",
         "nets": [
           "+1V1",
-          "+3.3V",
           "+3V3",
           "GND",
           "VBUS"
