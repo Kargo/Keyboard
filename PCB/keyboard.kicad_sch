@@ -354,29 +354,17 @@
   )
 
   (symbol_instances
-    (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/f9339871-d5ce-45ae-9d91-2535921b5648"
-      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/2be5a3e4-6545-4242-984b-805a21c5914c/f9339871-d5ce-45ae-9d91-2535921b5648"
-      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/0fee0513-3df6-4868-b463-45be06e5d7a5"
       (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/fb5c7a91-ad66-47b9-8d62-f3d93d50e07d"
       (reference "#FLG0106") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/599cc70f-8691-4143-ac35-4243c09fa266"
-      (reference "#FLG0201") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/0fee0513-3df6-4868-b463-45be06e5d7a5"
       (reference "#FLG0202") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/2be5a3e4-6545-4242-984b-805a21c5914c/fb5c7a91-ad66-47b9-8d62-f3d93d50e07d"
       (reference "#FLG0203") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/2be5a3e4-6545-4242-984b-805a21c5914c/599cc70f-8691-4143-ac35-4243c09fa266"
-      (reference "#FLG0204") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/f28c023c-5345-4c19-9d2c-61cc52427b4f/37da07c0-b021-4b67-898f-f5f5ebffab8e"
       (reference "#PWR0101") (unit 1) (value "+3V3") (footprint "")
